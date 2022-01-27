@@ -16,7 +16,7 @@ pipeline {
 
         stage("Fetch repository") {
             steps {
-                git 'https://github.com/btford/angular-express-blog.git'
+                git 'https://github.com/Danu1509/TIDPP-3.git'
             }
         }
 
